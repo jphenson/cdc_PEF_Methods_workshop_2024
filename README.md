@@ -1,6 +1,6 @@
 # CDC Prevention Effectiveness Fellowship Workshop Presentation Code Supplement
 
-![CDC logo](https://upload.wikimedia.org/wikipedia/commons/4/46/CDC_logo_block.png)
+![CDC logo](https://en.wikipedia.org/wiki/File:United_States_Centers_for_Disease_Control_and_Prevention_logo.svg)
 
 This repository contains the code supplement for the CDC Prevention Effectiveness Fellowship Workshop Presentation by James Patrick Henson. 
 
