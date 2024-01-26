@@ -6,7 +6,10 @@ This repository contains the code supplement for the CDC Prevention Effectivenes
 
 ## Overview
 
-In this workshop, we covered the Federal Reserve Bank of New York’s Consumer Credit Panel/Equifax (CCP) 
+In this workshop, we covered the following
+- Federal Reserve Bank of New York’s Consumer Credit Panel/Equifax (CCP) and its benefit in health research.
+- Tips and Tricks of Big Data with Stata
+- The Case Study of "The Relationship between Rural Hospital Closures and Consumer Financial Debt" 
 
 ## Contents
 
